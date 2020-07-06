@@ -1,7 +1,5 @@
 // Store our API endpoint inside queryUrl
-
 var queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
-//var API_KEY = "";
 
 
 // Perform a GET request to the query URL
